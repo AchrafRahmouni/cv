@@ -1,0 +1,71 @@
+.page{
+	width : 780px;
+	margin : auto;
+	font-size : 16px;
+	font-family : 'Source sans Pro', Calibri, Tahoma, sans-serif;
+}
+
+
+	.infophoto{
+		height : 230px;
+		
+	}
+	.info{
+		float : left;
+	}
+	.photo{
+		float : right;
+	}
+	
+	.section{
+		margin-bottom : 50px;
+		text-align : justify;
+	}
+	.titre{
+		font-weight : bold;
+		font-size : 20px;
+	}
+	
+	
+
+	strong{
+		front-size : 20px;
+		
+	}
+
+	h2{
+		front-size : 20px;
+		color : #3388BB;
+		text-transform : uppercase;
+		border-bottom : 3px solid #3388DD;
+	}
+	
+
+	.gauche{
+		float : left;
+		font-weight : bold;
+		font-size : 20px;
+		
+	}
+
+	.droite{
+		margin-left : 180px;
+		margin-bottom : 100px;
+	}
+	.lang-droite {
+		margin-left : 180px;
+		margin-top : 50px;
+	}
+	
+	.centre-droite{
+		margin-left : 180px;
+		margin-top : 40px;
+	}
+
+
+	
+	
+	
+	
+	
+	
